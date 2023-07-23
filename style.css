@@ -1,0 +1,11 @@
+
+.container {
+    text-align: center;
+    padding-top: 50px;
+  }
+  #catImage img {
+    max-width: 100%;
+    max-height: 400px;
+    margin-bottom: 20px;
+  }
+  
